@@ -1,6 +1,6 @@
 # Web-Scraping-1
 Task to Scrape  iPhone 12 link: https://www.amazon.in/Apple-New-iPhone-12-128GB/dp/B08L5TNJHG/
-Approach:
+# Approach:
     1. Import required Packages/modules: requests, bs4, txtblob, mysql.connector, html5lib
     2. Get html content from given link
     3. Use parser to parse the html tree (html5lib)
